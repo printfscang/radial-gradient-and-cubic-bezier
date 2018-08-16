@@ -3,7 +3,7 @@
 
 
 线性渐变（linear-gradient）与径向渐变（radial-gradient）
-https://blog.csdn.net/weixin_39256994/article/details/79541077
+https://www.zhangxinxu.com/wordpress/2017/11/css3-radial-gradient-syntax-example/
 linear-gradient线性渐变，它控制的是背景容器直线平面的渐变
 radial-gradient径向渐变控制的是背景容器曲线平面的渐变
 它们的语法相似
